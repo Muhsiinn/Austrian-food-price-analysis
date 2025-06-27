@@ -1,0 +1,890 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+AUT,2000-01-01,2000-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,69.372870,X,base year is 2015
+AUT,2001-01-01,2001-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,70.861379,X,base year is 2015
+AUT,2002-01-01,2002-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,74.179770,X,base year is 2015
+AUT,2003-01-01,2003-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,74.110636,X,base year is 2015
+AUT,2004-01-01,2004-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,75.769832,X,base year is 2015
+AUT,2005-01-01,2005-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,76.599424,X,base year is 2015
+AUT,2006-01-01,2006-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,78.060654,X,base year is 2015
+AUT,2007-01-01,2007-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,80.290957,X,base year is 2015
+AUT,2008-01-01,2008-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,86.366619,X,base year is 2015
+AUT,2009-01-01,2009-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,88.827640,X,base year is 2015
+AUT,2010-01-01,2010-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,87.366410,X,base year is 2015
+AUT,2011-01-01,2011-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,89.750529,X,base year is 2015
+AUT,2012-01-01,2012-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,92.983988,X,base year is 2015
+AUT,2013-01-01,2013-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,96.567021,X,base year is 2015
+AUT,2014-01-01,2014-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,99.188752,X,base year is 2015
+AUT,2015-01-01,2015-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.800491,X,base year is 2015
+AUT,2016-01-01,2016-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.500494,X,base year is 2015
+AUT,2017-01-01,2017-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.300499,X,base year is 2015
+AUT,2018-01-01,2018-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,104.300515,X,base year is 2015
+AUT,2019-01-01,2019-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,105.500522,X,base year is 2015
+AUT,2020-01-01,2020-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,106.800524,X,base year is 2015
+AUT,2021-01-01,2021-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,105.610244,X,base year is 2015
+AUT,2022-01-01,2022-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,110.804191,X,base year is 2015
+AUT,2023-01-01,2023-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,129.632247,X,base year is 2015
+AUT,2024-01-01,2024-01-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,136.665716,X,base year is 2015
+AUT,2000-02-01,2000-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,69.856740,X,base year is 2015
+AUT,2001-02-01,2001-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,71.068780,X,base year is 2015
+AUT,2002-02-01,2002-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,73.419300,X,base year is 2015
+AUT,2003-02-01,2003-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,73.626701,X,base year is 2015
+AUT,2004-02-01,2004-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,75.355030,X,base year is 2015
+AUT,2005-02-01,2005-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,77.445399,X,base year is 2015
+AUT,2006-02-01,2006-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,78.599007,X,base year is 2015
+AUT,2007-02-01,2007-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,80.060237,X,base year is 2015
+AUT,2008-02-01,2008-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,86.828058,X,base year is 2015
+AUT,2009-02-01,2009-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,88.750737,X,base year is 2015
+AUT,2010-02-01,2010-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,86.751155,X,base year is 2015
+AUT,2011-02-01,2011-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,90.449656,X,base year is 2015
+AUT,2012-02-01,2012-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,93.508338,X,base year is 2015
+AUT,2013-02-01,2013-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,96.567021,X,base year is 2015
+AUT,2014-02-01,2014-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.188752,X,base year is 2015
+AUT,2015-02-01,2015-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.800491,X,base year is 2015
+AUT,2016-02-01,2016-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.900493,X,base year is 2015
+AUT,2017-02-01,2017-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,103.200502,X,base year is 2015
+AUT,2018-02-01,2018-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,104.400520,X,base year is 2015
+AUT,2019-02-01,2019-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,105.500522,X,base year is 2015
+AUT,2020-02-01,2020-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,107.449767,X,base year is 2015
+AUT,2021-02-01,2021-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,109.181083,X,base year is 2015
+AUT,2022-02-01,2022-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,113.833993,X,base year is 2015
+AUT,2023-02-01,2023-02-28,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,132.229220,X,base year is 2015
+AUT,2024-02-01,2024-02-29,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,137.098545,X,base year is 2015
+AUT,2000-03-01,2000-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,69.372870,X,base year is 2015
+AUT,2001-03-01,2001-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,71.345314,X,base year is 2015
+AUT,2002-03-01,2002-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,73.211900,X,base year is 2015
+AUT,2003-03-01,2003-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,74.179770,X,base year is 2015
+AUT,2004-03-01,2004-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,75.562420,X,base year is 2015
+AUT,2005-03-01,2005-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,77.829935,X,base year is 2015
+AUT,2006-03-01,2006-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,77.906849,X,base year is 2015
+AUT,2007-03-01,2007-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,80.290957,X,base year is 2015
+AUT,2008-03-01,2008-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,86.520435,X,base year is 2015
+AUT,2009-03-01,2009-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,87.827849,X,base year is 2015
+AUT,2010-03-01,2010-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,87.520227,X,base year is 2015
+AUT,2011-03-01,2011-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,91.410958,X,base year is 2015
+AUT,2012-03-01,2012-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,94.032689,X,base year is 2015
+AUT,2013-03-01,2013-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,96.479633,X,base year is 2015
+AUT,2014-03-01,2014-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.839189,X,base year is 2015
+AUT,2015-03-01,2015-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.200489,X,base year is 2015
+AUT,2016-03-01,2016-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.900493,X,base year is 2015
+AUT,2017-03-01,2017-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.500499,X,base year is 2015
+AUT,2018-03-01,2018-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,104.300515,X,base year is 2015
+AUT,2019-03-01,2019-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,105.900521,X,base year is 2015
+AUT,2020-03-01,2020-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,107.882596,X,base year is 2015
+AUT,2021-03-01,2021-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,109.181083,X,base year is 2015
+AUT,2022-03-01,2022-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,115.565308,X,base year is 2015
+AUT,2023-03-01,2023-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,132.337427,X,base year is 2015
+AUT,2024-03-01,2024-03-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,136.773923,X,base year is 2015
+AUT,2000-04-01,2000-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,69.169127,X,base year is 2015
+AUT,2001-04-01,2001-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,71.690972,X,base year is 2015
+AUT,2002-04-01,2002-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,73.004510,X,base year is 2015
+AUT,2003-04-01,2003-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,73.972369,X,base year is 2015
+AUT,2004-04-01,2004-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,75.424164,X,base year is 2015
+AUT,2005-04-01,2005-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,77.291582,X,base year is 2015
+AUT,2006-04-01,2006-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,77.906849,X,base year is 2015
+AUT,2007-04-01,2007-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,81.060029,X,base year is 2015
+AUT,2008-04-01,2008-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,86.674241,X,base year is 2015
+AUT,2009-04-01,2009-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,87.443313,X,base year is 2015
+AUT,2010-04-01,2010-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,87.981666,X,base year is 2015
+AUT,2011-04-01,2011-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,91.760521,X,base year is 2015
+AUT,2012-04-01,2012-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,93.333551,X,base year is 2015
+AUT,2013-04-01,2013-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,97.003972,X,base year is 2015
+AUT,2014-04-01,2014-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,99.013976,X,base year is 2015
+AUT,2015-04-01,2015-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.300495,X,base year is 2015
+AUT,2016-04-01,2016-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,101.200497,X,base year is 2015
+AUT,2017-04-01,2017-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.300499,X,base year is 2015
+AUT,2018-04-01,2018-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,104.400520,X,base year is 2015
+AUT,2019-04-01,2019-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,105.700522,X,base year is 2015
+AUT,2020-04-01,2020-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,108.423632,X,base year is 2015
+AUT,2021-04-01,2021-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,108.640046,X,base year is 2015
+AUT,2022-04-01,2022-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,117.729453,X,base year is 2015
+AUT,2023-04-01,2023-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,133.311292,X,base year is 2015
+AUT,2024-04-01,2024-04-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,136.773923,X,base year is 2015
+AUT,2000-05-01,2000-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,69.321937,X,base year is 2015
+AUT,2001-05-01,2001-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,72.244040,X,base year is 2015
+AUT,2002-05-01,2002-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,72.797098,X,base year is 2015
+AUT,2003-05-01,2003-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,73.972369,X,base year is 2015
+AUT,2004-05-01,2004-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,75.700698,X,base year is 2015
+AUT,2005-05-01,2005-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,77.214679,X,base year is 2015
+AUT,2006-05-01,2006-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,78.291385,X,base year is 2015
+AUT,2007-05-01,2007-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,81.367651,X,base year is 2015
+AUT,2008-05-01,2008-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,86.981874,X,base year is 2015
+AUT,2009-05-01,2009-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,87.058777,X,base year is 2015
+AUT,2010-05-01,2010-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,87.058777,X,base year is 2015
+AUT,2011-05-01,2011-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,91.148783,X,base year is 2015
+AUT,2012-05-01,2012-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,93.333551,X,base year is 2015
+AUT,2013-05-01,2013-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,97.703099,X,base year is 2015
+AUT,2014-05-01,2014-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.625704,X,base year is 2015
+AUT,2015-05-01,2015-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.700493,X,base year is 2015
+AUT,2016-05-01,2016-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.800498,X,base year is 2015
+AUT,2017-05-01,2017-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.900508,X,base year is 2015
+AUT,2018-05-01,2018-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,104.900513,X,base year is 2015
+AUT,2019-05-01,2019-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,105.900521,X,base year is 2015
+AUT,2020-05-01,2020-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,107.233353,X,base year is 2015
+AUT,2021-05-01,2021-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,109.181083,X,base year is 2015
+AUT,2022-05-01,2022-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,119.027939,X,base year is 2015
+AUT,2023-05-01,2023-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,133.635914,X,base year is 2015
+AUT,2024-05-01,2024-05-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,137.423166,X,base year is 2015
+AUT,2000-06-01,2000-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,69.245532,X,base year is 2015
+AUT,2001-06-01,2001-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,71.967506,X,base year is 2015
+AUT,2002-06-01,2002-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,71.898372,X,base year is 2015
+AUT,2003-06-01,2003-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,73.557568,X,base year is 2015
+AUT,2004-06-01,2004-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,75.769832,X,base year is 2015
+AUT,2005-06-01,2005-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,77.214679,X,base year is 2015
+AUT,2006-06-01,2006-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,77.983751,X,base year is 2015
+AUT,2007-06-01,2007-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,80.675493,X,base year is 2015
+AUT,2008-06-01,2008-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,86.135899,X,base year is 2015
+AUT,2009-06-01,2009-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,86.443522,X,base year is 2015
+AUT,2010-06-01,2010-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,86.981874,X,base year is 2015
+AUT,2011-06-01,2011-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,90.799219,X,base year is 2015
+AUT,2012-06-01,2012-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,93.508338,X,base year is 2015
+AUT,2013-06-01,2013-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,97.615711,X,base year is 2015
+AUT,2014-06-01,2014-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.276140,X,base year is 2015
+AUT,2015-06-01,2015-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.300495,X,base year is 2015
+AUT,2016-06-01,2016-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,100.400489,X,base year is 2015
+AUT,2017-06-01,2017-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,102.700509,X,base year is 2015
+AUT,2018-06-01,2018-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,104.800508,X,base year is 2015
+AUT,2019-06-01,2019-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,105.700522,X,base year is 2015
+AUT,2020-06-01,2020-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,108.748254,X,base year is 2015
+AUT,2021-06-01,2021-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,108.748254,X,base year is 2015
+AUT,2022-06-01,2022-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,121.083876,X,base year is 2015
+AUT,2023-06-01,2023-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,134.501571,X,base year is 2015
+AUT,2024-06-01,2024-06-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,136.773923,X,base year is 2015
+AUT,2000-07-01,2000-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,69.449275,X,base year is 2015
+AUT,2001-07-01,2001-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,71.414448,X,base year is 2015
+AUT,2002-07-01,2002-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,71.552704,X,base year is 2015
+AUT,2003-07-01,2003-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,73.211900,X,base year is 2015
+AUT,2004-07-01,2004-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,75.285897,X,base year is 2015
+AUT,2005-07-01,2005-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,76.368705,X,base year is 2015
+AUT,2006-07-01,2006-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,77.906849,X,base year is 2015
+AUT,2007-07-01,2007-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,80.675493,X,base year is 2015
+AUT,2008-07-01,2008-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,86.366619,X,base year is 2015
+AUT,2009-07-01,2009-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,86.058986,X,base year is 2015
+AUT,2010-07-01,2010-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,86.751155,X,base year is 2015
+AUT,2011-07-01,2011-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,90.886607,X,base year is 2015
+AUT,2012-07-01,2012-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,93.683115,X,base year is 2015
+AUT,2013-07-01,2013-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,97.266159,X,base year is 2015
+AUT,2014-07-01,2014-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,99.101364,X,base year is 2015
+AUT,2015-07-01,2015-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,100.000490,X,base year is 2015
+AUT,2016-07-01,2016-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.500494,X,base year is 2015
+AUT,2017-07-01,2017-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,102.700509,X,base year is 2015
+AUT,2018-07-01,2018-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,104.800508,X,base year is 2015
+AUT,2019-07-01,2019-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,106.000515,X,base year is 2015
+AUT,2020-07-01,2020-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,108.748254,X,base year is 2015
+AUT,2021-07-01,2021-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,108.856461,X,base year is 2015
+AUT,2022-07-01,2022-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,122.165949,X,base year is 2015
+AUT,2023-07-01,2023-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,135.042608,X,base year is 2015
+AUT,2024-07-01,2024-07-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,136.557509,X,base year is 2015
+AUT,2000-08-01,2000-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,68.710718,X,base year is 2015
+AUT,2001-08-01,2001-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,71.137903,X,base year is 2015
+AUT,2002-08-01,2002-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,71.829250,X,base year is 2015
+AUT,2003-08-01,2003-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,73.281033,X,base year is 2015
+AUT,2004-08-01,2004-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,74.871095,X,base year is 2015
+AUT,2005-08-01,2005-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,75.830352,X,base year is 2015
+AUT,2006-08-01,2006-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,78.214471,X,base year is 2015
+AUT,2007-08-01,2007-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,81.213845,X,base year is 2015
+AUT,2008-08-01,2008-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,86.443522,X,base year is 2015
+AUT,2009-08-01,2009-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,85.905169,X,base year is 2015
+AUT,2010-08-01,2010-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,87.058777,X,base year is 2015
+AUT,2011-08-01,2011-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,90.624432,X,base year is 2015
+AUT,2012-08-01,2012-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,93.945290,X,base year is 2015
+AUT,2013-08-01,2013-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,97.003972,X,base year is 2015
+AUT,2014-08-01,2014-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.839189,X,base year is 2015
+AUT,2015-08-01,2015-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.600491,X,base year is 2015
+AUT,2016-08-01,2016-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.500494,X,base year is 2015
+AUT,2017-08-01,2017-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,103.000503,X,base year is 2015
+AUT,2018-08-01,2018-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,104.300515,X,base year is 2015
+AUT,2019-08-01,2019-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,105.900521,X,base year is 2015
+AUT,2020-08-01,2020-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,108.423632,X,base year is 2015
+AUT,2021-08-01,2021-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,109.072875,X,base year is 2015
+AUT,2022-08-01,2022-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,123.356228,X,base year is 2015
+AUT,2023-08-01,2023-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,135.475436,X,base year is 2015
+AUT,2024-08-01,2024-08-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,137.314959,X,base year is 2015
+AUT,2000-09-01,2000-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,68.506985,X,base year is 2015
+AUT,2001-09-01,2001-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,71.760116,X,base year is 2015
+AUT,2002-09-01,2002-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,71.967506,X,base year is 2015
+AUT,2003-09-01,2003-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,73.557568,X,base year is 2015
+AUT,2004-09-01,2004-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,74.456294,X,base year is 2015
+AUT,2005-09-01,2005-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,75.984169,X,base year is 2015
+AUT,2006-09-01,2006-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,78.445190,X,base year is 2015
+AUT,2007-09-01,2007-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,81.136942,X,base year is 2015
+AUT,2008-09-01,2008-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,86.366619,X,base year is 2015
+AUT,2009-09-01,2009-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,85.828277,X,base year is 2015
+AUT,2010-09-01,2010-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,87.058777,X,base year is 2015
+AUT,2011-09-01,2011-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,90.974006,X,base year is 2015
+AUT,2012-09-01,2012-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,94.032689,X,base year is 2015
+AUT,2013-09-01,2013-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,96.829196,X,base year is 2015
+AUT,2014-09-01,2014-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.926577,X,base year is 2015
+AUT,2015-09-01,2015-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.700486,X,base year is 2015
+AUT,2016-09-01,2016-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,100.200489,X,base year is 2015
+AUT,2017-09-01,2017-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,103.300507,X,base year is 2015
+AUT,2018-09-01,2018-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,104.600509,X,base year is 2015
+AUT,2019-09-01,2019-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,105.400517,X,base year is 2015
+AUT,2020-09-01,2020-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,108.531839,X,base year is 2015
+AUT,2021-09-01,2021-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,109.181083,X,base year is 2015
+AUT,2022-09-01,2022-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,124.330093,X,base year is 2015
+AUT,2023-09-01,2023-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,134.717986,X,base year is 2015
+AUT,2024-09-01,2024-09-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,137.639581,X,base year is 2015
+AUT,2000-10-01,2000-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,68.634323,X,base year is 2015
+AUT,2001-10-01,2001-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,72.105773,X,base year is 2015
+AUT,2002-10-01,2002-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,72.658842,X,base year is 2015
+AUT,2003-10-01,2003-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,74.110636,X,base year is 2015
+AUT,2004-10-01,2004-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,74.801961,X,base year is 2015
+AUT,2005-10-01,2005-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,76.214888,X,base year is 2015
+AUT,2006-10-01,2006-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,78.137557,X,base year is 2015
+AUT,2007-10-01,2007-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,82.982708,X,base year is 2015
+AUT,2008-10-01,2008-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,86.981874,X,base year is 2015
+AUT,2009-10-01,2009-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,86.135899,X,base year is 2015
+AUT,2010-10-01,2010-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,87.674043,X,base year is 2015
+AUT,2011-10-01,2011-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,91.498346,X,base year is 2015
+AUT,2012-10-01,2012-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,94.469640,X,base year is 2015
+AUT,2013-10-01,2013-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,97.703099,X,base year is 2015
+AUT,2014-10-01,2014-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.188752,X,base year is 2015
+AUT,2015-10-01,2015-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,99.700486,X,base year is 2015
+AUT,2016-10-01,2016-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,100.800498,X,base year is 2015
+AUT,2017-10-01,2017-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,104.000511,X,base year is 2015
+AUT,2018-10-01,2018-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,105.200518,X,base year is 2015
+AUT,2019-10-01,2019-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,105.900521,X,base year is 2015
+AUT,2020-10-01,2020-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,108.748254,X,base year is 2015
+AUT,2021-10-01,2021-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,109.938533,X,base year is 2015
+AUT,2022-10-01,2022-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,125.736787,X,base year is 2015
+AUT,2023-10-01,2023-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,134.826193,X,base year is 2015
+AUT,2024-10-01,2024-10-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,138.505239,X,base year is 2015
+AUT,2000-11-01,2000-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,68.838056,X,base year is 2015
+AUT,2001-11-01,2001-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,71.898372,X,base year is 2015
+AUT,2002-11-01,2002-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,72.589708,X,base year is 2015
+AUT,2003-11-01,2003-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,74.871095,X,base year is 2015
+AUT,2004-11-01,2004-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,75.078496,X,base year is 2015
+AUT,2005-11-01,2005-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,76.676327,X,base year is 2015
+AUT,2006-11-01,2006-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,78.829726,X,base year is 2015
+AUT,2007-11-01,2007-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,83.828683,X,base year is 2015
+AUT,2008-11-01,2008-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,87.443313,X,base year is 2015
+AUT,2009-11-01,2009-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,86.674241,X,base year is 2015
+AUT,2010-11-01,2010-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,87.674043,X,base year is 2015
+AUT,2011-11-01,2011-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,91.847909,X,base year is 2015
+AUT,2012-11-01,2012-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,95.168767,X,base year is 2015
+AUT,2013-11-01,2013-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.877886,X,base year is 2015
+AUT,2014-11-01,2014-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.363539,X,base year is 2015
+AUT,2015-11-01,2015-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,99.800491,X,base year is 2015
+AUT,2016-11-01,2016-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.000498,X,base year is 2015
+AUT,2017-11-01,2017-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,104.200510,X,base year is 2015
+AUT,2018-11-01,2018-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,105.100513,X,base year is 2015
+AUT,2019-11-01,2019-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,105.600517,X,base year is 2015
+AUT,2020-11-01,2020-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,108.531839,X,base year is 2015
+AUT,2021-11-01,2021-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,110.263155,X,base year is 2015
+AUT,2022-11-01,2022-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,127.035273,X,base year is 2015
+AUT,2023-11-01,2023-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,136.341094,X,base year is 2015
+AUT,2024-11-01,2024-11-30,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,139.154482,X,base year is 2015
+AUT,2000-12-01,2000-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,69.118193,X,base year is 2015
+AUT,2001-12-01,2001-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,72.313174,X,base year is 2015
+AUT,2002-12-01,2002-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,72.658842,X,base year is 2015
+AUT,2003-12-01,2003-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,74.732828,X,base year is 2015
+AUT,2004-12-01,2004-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,76.115489,X,base year is 2015
+AUT,2005-12-01,2005-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,78.368287,X,base year is 2015
+AUT,2006-12-01,2006-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,79.752615,X,base year is 2015
+AUT,2007-12-01,2007-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,85.828277,X,base year is 2015
+AUT,2008-12-01,2008-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,87.981666,X,base year is 2015
+AUT,2009-12-01,2009-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,86.289705,X,base year is 2015
+AUT,2010-12-01,2010-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,88.366201,X,base year is 2015
+AUT,2011-12-01,2011-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,91.847909,X,base year is 2015
+AUT,2012-12-01,2012-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,96.217458,X,base year is 2015
+AUT,2013-12-01,2013-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,98.664401,X,base year is 2015
+AUT,2014-12-01,2014-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.625704,X,base year is 2015
+AUT,2015-12-01,2015-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.100495,X,base year is 2015
+AUT,2016-12-01,2016-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,101.100492,X,base year is 2015
+AUT,2017-12-01,2017-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,104.300515,X,base year is 2015
+AUT,2018-12-01,2018-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,105.100513,X,base year is 2015
+AUT,2019-12-01,2019-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,106.000515,X,base year is 2015
+AUT,2020-12-01,2020-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,109.072875,X,base year is 2015
+AUT,2021-12-01,2021-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,110.912398,X,base year is 2015
+AUT,2022-12-01,2022-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,128.766589,X,base year is 2015
+AUT,2023-12-01,2023-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,136.449301,X,base year is 2015
+AUT,2024-12-01,2024-12-31,11,'040,Austria,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,138.613446,X,base year is 2015
+AUT,2000-01-01,2000-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,73.462139,X,base year is 2015
+AUT,2001-01-01,2001-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,75.671634,X,base year is 2015
+AUT,2002-01-01,2002-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,77.313427,X,base year is 2015
+AUT,2003-01-01,2003-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,78.656707,X,base year is 2015
+AUT,2004-01-01,2004-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,79.552237,X,base year is 2015
+AUT,2005-01-01,2005-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,81.865670,X,base year is 2015
+AUT,2006-01-01,2006-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,82.855969,X,base year is 2015
+AUT,2007-01-01,2007-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,84.176389,X,base year is 2015
+AUT,2008-01-01,2008-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,86.899746,X,base year is 2015
+AUT,2009-01-01,2009-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,87.972584,X,base year is 2015
+AUT,2010-01-01,2010-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,89.045421,X,base year is 2015
+AUT,2011-01-01,2011-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,91.273612,X,base year is 2015
+AUT,2012-01-01,2012-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,93.803973,X,base year is 2015
+AUT,2013-01-01,2013-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,96.334333,X,base year is 2015
+AUT,2014-01-01,2014-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,97.870620,X,base year is 2015
+AUT,2015-01-01,2015-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,98.593580,X,base year is 2015
+AUT,2016-01-01,2016-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,99.793507,X,base year is 2015
+AUT,2017-01-01,2017-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,101.793374,X,base year is 2015
+AUT,2018-01-01,2018-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,103.593259,X,base year is 2015
+AUT,2019-01-01,2019-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,105.493124,X,base year is 2015
+AUT,2020-01-01,2020-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,107.592993,X,base year is 2015
+AUT,2021-01-01,2021-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,108.458063,X,base year is 2015
+AUT,2022-01-01,2022-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,113.864746,X,base year is 2015
+AUT,2023-01-01,2023-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,126.624518,X,base year is 2015
+AUT,2024-01-01,2024-01-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,132.463735,X,base year is 2015
+AUT,2000-02-01,2000-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,73.959175,X,base year is 2015
+AUT,2001-02-01,2001-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,75.970147,X,base year is 2015
+AUT,2002-02-01,2002-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,77.388050,X,base year is 2015
+AUT,2003-02-01,2003-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,78.731340,X,base year is 2015
+AUT,2004-02-01,2004-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,79.850740,X,base year is 2015
+AUT,2005-02-01,2005-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,82.113242,X,base year is 2015
+AUT,2006-02-01,2006-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,83.103552,X,base year is 2015
+AUT,2007-02-01,2007-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,84.423972,X,base year is 2015
+AUT,2008-02-01,2008-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,87.147318,X,base year is 2015
+AUT,2009-02-01,2009-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,88.302683,X,base year is 2015
+AUT,2010-02-01,2010-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,89.210465,X,base year is 2015
+AUT,2011-02-01,2011-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,91.906205,X,base year is 2015
+AUT,2012-02-01,2012-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,94.255820,X,base year is 2015
+AUT,2013-02-01,2013-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,96.605435,X,base year is 2015
+AUT,2014-02-01,2014-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.051355,X,base year is 2015
+AUT,2015-02-01,2015-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.893565,X,base year is 2015
+AUT,2016-02-01,2016-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,99.893498,X,base year is 2015
+AUT,2017-02-01,2017-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,102.093348,X,base year is 2015
+AUT,2018-02-01,2018-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,103.893233,X,base year is 2015
+AUT,2019-02-01,2019-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,105.493124,X,base year is 2015
+AUT,2020-02-01,2020-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,107.701127,X,base year is 2015
+AUT,2021-02-01,2021-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,108.998731,X,base year is 2015
+AUT,2022-02-01,2022-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,115.270483,X,base year is 2015
+AUT,2023-02-01,2023-02-28,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,127.813988,X,base year is 2015
+AUT,2024-02-01,2024-02-29,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,133.112537,X,base year is 2015
+AUT,2000-03-01,2000-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,74.177864,X,base year is 2015
+AUT,2001-03-01,2001-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,76.119404,X,base year is 2015
+AUT,2002-03-01,2002-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,77.537307,X,base year is 2015
+AUT,2003-03-01,2003-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,78.955220,X,base year is 2015
+AUT,2004-03-01,2004-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,80.149254,X,base year is 2015
+AUT,2005-03-01,2005-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,82.525870,X,base year is 2015
+AUT,2006-03-01,2006-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,83.351135,X,base year is 2015
+AUT,2007-03-01,2007-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,84.836599,X,base year is 2015
+AUT,2008-03-01,2008-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,87.807529,X,base year is 2015
+AUT,2009-03-01,2009-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,88.467739,X,base year is 2015
+AUT,2010-03-01,2010-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,90.200786,X,base year is 2015
+AUT,2011-03-01,2011-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,92.990645,X,base year is 2015
+AUT,2012-03-01,2012-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,95.249893,X,base year is 2015
+AUT,2013-03-01,2013-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,97.418762,X,base year is 2015
+AUT,2014-03-01,2014-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,99.045438,X,base year is 2015
+AUT,2015-03-01,2015-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.993489,X,base year is 2015
+AUT,2016-03-01,2016-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.693439,X,base year is 2015
+AUT,2017-03-01,2017-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.593325,X,base year is 2015
+AUT,2018-03-01,2018-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,104.493191,X,base year is 2015
+AUT,2019-03-01,2019-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,106.393077,X,base year is 2015
+AUT,2020-03-01,2020-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,108.025528,X,base year is 2015
+AUT,2021-03-01,2021-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,110.188201,X,base year is 2015
+AUT,2022-03-01,2022-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,117.649424,X,base year is 2015
+AUT,2023-03-01,2023-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,128.462790,X,base year is 2015
+AUT,2024-03-01,2024-03-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,133.761339,X,base year is 2015
+AUT,2000-04-01,2000-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,74.118229,X,base year is 2015
+AUT,2001-04-01,2001-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,76.492530,X,base year is 2015
+AUT,2002-04-01,2002-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,77.835821,X,base year is 2015
+AUT,2003-04-01,2003-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,78.880587,X,base year is 2015
+AUT,2004-04-01,2004-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,80.149254,X,base year is 2015
+AUT,2005-04-01,2005-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,82.360825,X,base year is 2015
+AUT,2006-04-01,2006-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,83.763762,X,base year is 2015
+AUT,2007-04-01,2007-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,85.249227,X,base year is 2015
+AUT,2008-04-01,2008-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,88.055101,X,base year is 2015
+AUT,2009-04-01,2009-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,88.632794,X,base year is 2015
+AUT,2010-04-01,2010-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,90.448358,X,base year is 2015
+AUT,2011-04-01,2011-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,93.442493,X,base year is 2015
+AUT,2012-04-01,2012-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,95.611373,X,base year is 2015
+AUT,2013-04-01,2013-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,97.509140,X,base year is 2015
+AUT,2014-04-01,2014-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,99.135806,X,base year is 2015
+AUT,2015-04-01,2015-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.193483,X,base year is 2015
+AUT,2016-04-01,2016-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,100.693439,X,base year is 2015
+AUT,2017-04-01,2017-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.793308,X,base year is 2015
+AUT,2018-04-01,2018-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,104.693184,X,base year is 2015
+AUT,2019-04-01,2019-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,106.493058,X,base year is 2015
+AUT,2020-04-01,2020-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,108.025528,X,base year is 2015
+AUT,2021-04-01,2021-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,110.080068,X,base year is 2015
+AUT,2022-04-01,2022-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,117.973825,X,base year is 2015
+AUT,2023-04-01,2023-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,129.327859,X,base year is 2015
+AUT,2024-04-01,2024-04-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,133.761339,X,base year is 2015
+AUT,2000-05-01,2000-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,74.177864,X,base year is 2015
+AUT,2001-05-01,2001-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,76.641787,X,base year is 2015
+AUT,2002-05-01,2002-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,78.059701,X,base year is 2015
+AUT,2003-05-01,2003-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,78.880587,X,base year is 2015
+AUT,2004-05-01,2004-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,80.522380,X,base year is 2015
+AUT,2005-05-01,2005-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,82.443342,X,base year is 2015
+AUT,2006-05-01,2006-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,83.846290,X,base year is 2015
+AUT,2007-05-01,2007-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,85.496810,X,base year is 2015
+AUT,2008-05-01,2008-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,88.632794,X,base year is 2015
+AUT,2009-05-01,2009-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,88.880366,X,base year is 2015
+AUT,2010-05-01,2010-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,90.530886,X,base year is 2015
+AUT,2011-05-01,2011-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,93.532860,X,base year is 2015
+AUT,2012-05-01,2012-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,95.520995,X,base year is 2015
+AUT,2013-05-01,2013-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,97.689875,X,base year is 2015
+AUT,2014-05-01,2014-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.406907,X,base year is 2015
+AUT,2015-05-01,2015-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.393465,X,base year is 2015
+AUT,2016-05-01,2016-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.993423,X,base year is 2015
+AUT,2017-05-01,2017-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.893299,X,base year is 2015
+AUT,2018-05-01,2018-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,104.893166,X,base year is 2015
+AUT,2019-05-01,2019-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,106.693051,X,base year is 2015
+AUT,2020-05-01,2020-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,107.376726,X,base year is 2015
+AUT,2021-05-01,2021-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,110.404469,X,base year is 2015
+AUT,2022-05-01,2022-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,118.947028,X,base year is 2015
+AUT,2023-05-01,2023-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,129.544127,X,base year is 2015
+AUT,2024-05-01,2024-05-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,133.869473,X,base year is 2015
+AUT,2000-06-01,2000-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,74.754433,X,base year is 2015
+AUT,2001-06-01,2001-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,76.791033,X,base year is 2015
+AUT,2002-06-01,2002-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,78.134324,X,base year is 2015
+AUT,2003-06-01,2003-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,79.029843,X,base year is 2015
+AUT,2004-06-01,2004-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,80.820883,X,base year is 2015
+AUT,2005-06-01,2005-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,82.690925,X,base year is 2015
+AUT,2006-06-01,2006-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,83.928817,X,base year is 2015
+AUT,2007-06-01,2007-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,85.579326,X,base year is 2015
+AUT,2008-06-01,2008-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,88.880366,X,base year is 2015
+AUT,2009-06-01,2009-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,88.797838,X,base year is 2015
+AUT,2010-06-01,2010-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,90.530886,X,base year is 2015
+AUT,2011-06-01,2011-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,93.532860,X,base year is 2015
+AUT,2012-06-01,2012-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,95.611373,X,base year is 2015
+AUT,2013-06-01,2013-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,97.689875,X,base year is 2015
+AUT,2014-06-01,2014-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.497286,X,base year is 2015
+AUT,2015-06-01,2015-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.493456,X,base year is 2015
+AUT,2016-06-01,2016-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,101.093414,X,base year is 2015
+AUT,2017-06-01,2017-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,102.993290,X,base year is 2015
+AUT,2018-06-01,2018-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,105.093149,X,base year is 2015
+AUT,2019-06-01,2019-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,106.793042,X,base year is 2015
+AUT,2020-06-01,2020-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,107.917394,X,base year is 2015
+AUT,2021-06-01,2021-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,110.945137,X,base year is 2015
+AUT,2022-06-01,2022-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,120.569033,X,base year is 2015
+AUT,2023-06-01,2023-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,130.192929,X,base year is 2015
+AUT,2024-06-01,2024-06-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,134.085740,X,base year is 2015
+AUT,2000-07-01,2000-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,74.814080,X,base year is 2015
+AUT,2001-07-01,2001-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,76.865667,X,base year is 2015
+AUT,2002-07-01,2002-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,78.059701,X,base year is 2015
+AUT,2003-07-01,2003-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,78.955220,X,base year is 2015
+AUT,2004-07-01,2004-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,80.671637,X,base year is 2015
+AUT,2005-07-01,2005-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,82.608397,X,base year is 2015
+AUT,2006-07-01,2006-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,83.846290,X,base year is 2015
+AUT,2007-07-01,2007-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,85.579326,X,base year is 2015
+AUT,2008-07-01,2008-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,88.797838,X,base year is 2015
+AUT,2009-07-01,2009-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,88.550255,X,base year is 2015
+AUT,2010-07-01,2010-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,90.200786,X,base year is 2015
+AUT,2011-07-01,2011-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,93.352125,X,base year is 2015
+AUT,2012-07-01,2012-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,95.340260,X,base year is 2015
+AUT,2013-07-01,2013-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,97.238027,X,base year is 2015
+AUT,2014-07-01,2014-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.955060,X,base year is 2015
+AUT,2015-07-01,2015-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,100.093481,X,base year is 2015
+AUT,2016-07-01,2016-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.693439,X,base year is 2015
+AUT,2017-07-01,2017-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,102.693306,X,base year is 2015
+AUT,2018-07-01,2018-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,104.893166,X,base year is 2015
+AUT,2019-07-01,2019-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,106.393077,X,base year is 2015
+AUT,2020-07-01,2020-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,108.133662,X,base year is 2015
+AUT,2021-07-01,2021-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,111.269538,X,base year is 2015
+AUT,2022-07-01,2022-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,121.758503,X,base year is 2015
+AUT,2023-07-01,2023-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,130.301062,X,base year is 2015
+AUT,2024-07-01,2024-07-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,134.085740,X,base year is 2015
+AUT,2000-08-01,2000-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,74.814080,X,base year is 2015
+AUT,2001-08-01,2001-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,76.716421,X,base year is 2015
+AUT,2002-08-01,2002-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,78.208947,X,base year is 2015
+AUT,2003-08-01,2003-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,79.179100,X,base year is 2015
+AUT,2004-08-01,2004-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,80.970140,X,base year is 2015
+AUT,2005-08-01,2005-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,82.608397,X,base year is 2015
+AUT,2006-08-01,2006-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,84.093862,X,base year is 2015
+AUT,2007-08-01,2007-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,85.496810,X,base year is 2015
+AUT,2008-08-01,2008-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,88.632794,X,base year is 2015
+AUT,2009-08-01,2009-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,88.880366,X,base year is 2015
+AUT,2010-08-01,2010-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,90.365830,X,base year is 2015
+AUT,2011-08-01,2011-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,93.532860,X,base year is 2015
+AUT,2012-08-01,2012-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,95.611373,X,base year is 2015
+AUT,2013-08-01,2013-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,97.328395,X,base year is 2015
+AUT,2014-08-01,2014-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.955060,X,base year is 2015
+AUT,2015-08-01,2015-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.893498,X,base year is 2015
+AUT,2016-08-01,2016-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.493456,X,base year is 2015
+AUT,2017-08-01,2017-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,102.593325,X,base year is 2015
+AUT,2018-08-01,2018-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,104.893166,X,base year is 2015
+AUT,2019-08-01,2019-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,106.493058,X,base year is 2015
+AUT,2020-08-01,2020-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,107.917394,X,base year is 2015
+AUT,2021-08-01,2021-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,111.377671,X,base year is 2015
+AUT,2022-08-01,2022-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,121.758503,X,base year is 2015
+AUT,2023-08-01,2023-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,130.733597,X,base year is 2015
+AUT,2024-08-01,2024-08-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,133.761339,X,base year is 2015
+AUT,2000-09-01,2000-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,75.032780,X,base year is 2015
+AUT,2001-09-01,2001-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,76.940290,X,base year is 2015
+AUT,2002-09-01,2002-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,78.208947,X,base year is 2015
+AUT,2003-09-01,2003-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,79.328357,X,base year is 2015
+AUT,2004-09-01,2004-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,80.970140,X,base year is 2015
+AUT,2005-09-01,2005-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,82.773452,X,base year is 2015
+AUT,2006-09-01,2006-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,83.928817,X,base year is 2015
+AUT,2007-09-01,2007-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,85.661854,X,base year is 2015
+AUT,2008-09-01,2008-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,88.880366,X,base year is 2015
+AUT,2009-09-01,2009-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,88.962883,X,base year is 2015
+AUT,2010-09-01,2010-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,90.613413,X,base year is 2015
+AUT,2011-09-01,2011-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,93.894340,X,base year is 2015
+AUT,2012-09-01,2012-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,96.424700,X,base year is 2015
+AUT,2013-09-01,2013-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.051355,X,base year is 2015
+AUT,2014-09-01,2014-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.587653,X,base year is 2015
+AUT,2015-09-01,2015-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.293463,X,base year is 2015
+AUT,2016-09-01,2016-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,101.193416,X,base year is 2015
+AUT,2017-09-01,2017-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,103.593259,X,base year is 2015
+AUT,2018-09-01,2018-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,105.693117,X,base year is 2015
+AUT,2019-09-01,2019-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,106.993035,X,base year is 2015
+AUT,2020-09-01,2020-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,108.349929,X,base year is 2015
+AUT,2021-09-01,2021-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,111.918340,X,base year is 2015
+AUT,2022-09-01,2022-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,123.813043,X,base year is 2015
+AUT,2023-09-01,2023-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,131.274265,X,base year is 2015
+AUT,2024-09-01,2024-09-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,133.653206,X,base year is 2015
+AUT,2000-10-01,2000-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,75.171948,X,base year is 2015
+AUT,2001-10-01,2001-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,77.014924,X,base year is 2015
+AUT,2002-10-01,2002-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,78.358204,X,base year is 2015
+AUT,2003-10-01,2003-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,79.179100,X,base year is 2015
+AUT,2004-10-01,2004-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,81.268654,X,base year is 2015
+AUT,2005-10-01,2005-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,82.855969,X,base year is 2015
+AUT,2006-10-01,2006-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,83.846290,X,base year is 2015
+AUT,2007-10-01,2007-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,86.157009,X,base year is 2015
+AUT,2008-10-01,2008-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,88.797838,X,base year is 2015
+AUT,2009-10-01,2009-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,88.962883,X,base year is 2015
+AUT,2010-10-01,2010-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,90.860985,X,base year is 2015
+AUT,2011-10-01,2011-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,93.984707,X,base year is 2015
+AUT,2012-10-01,2012-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,96.605435,X,base year is 2015
+AUT,2013-10-01,2013-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,97.960987,X,base year is 2015
+AUT,2014-10-01,2014-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.497286,X,base year is 2015
+AUT,2015-10-01,2015-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.193483,X,base year is 2015
+AUT,2016-10-01,2016-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,101.493390,X,base year is 2015
+AUT,2017-10-01,2017-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,103.693250,X,base year is 2015
+AUT,2018-10-01,2018-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,105.993102,X,base year is 2015
+AUT,2019-10-01,2019-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,107.193018,X,base year is 2015
+AUT,2020-10-01,2020-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,108.566196,X,base year is 2015
+AUT,2021-10-01,2021-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,112.567142,X,base year is 2015
+AUT,2022-10-01,2022-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,125.002513,X,base year is 2015
+AUT,2023-10-01,2023-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,131.706800,X,base year is 2015
+AUT,2024-10-01,2024-10-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,134.085740,X,base year is 2015
+AUT,2000-11-01,2000-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,75.450284,X,base year is 2015
+AUT,2001-11-01,2001-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,76.940290,X,base year is 2015
+AUT,2002-11-01,2002-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,78.283581,X,base year is 2015
+AUT,2003-11-01,2003-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,79.328357,X,base year is 2015
+AUT,2004-11-01,2004-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,81.417900,X,base year is 2015
+AUT,2005-11-01,2005-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,82.608397,X,base year is 2015
+AUT,2006-11-01,2006-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,83.928817,X,base year is 2015
+AUT,2007-11-01,2007-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,86.569647,X,base year is 2015
+AUT,2008-11-01,2008-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,88.550255,X,base year is 2015
+AUT,2009-11-01,2009-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,89.127949,X,base year is 2015
+AUT,2010-11-01,2010-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,90.778458,X,base year is 2015
+AUT,2011-11-01,2011-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,94.075085,X,base year is 2015
+AUT,2012-11-01,2012-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,96.695813,X,base year is 2015
+AUT,2013-11-01,2013-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.051355,X,base year is 2015
+AUT,2014-11-01,2014-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.678020,X,base year is 2015
+AUT,2015-11-01,2015-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.293463,X,base year is 2015
+AUT,2016-11-01,2016-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.593392,X,base year is 2015
+AUT,2017-11-01,2017-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,103.893233,X,base year is 2015
+AUT,2018-11-01,2018-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,106.193084,X,base year is 2015
+AUT,2019-11-01,2019-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,107.393011,X,base year is 2015
+AUT,2020-11-01,2020-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,108.674330,X,base year is 2015
+AUT,2021-11-01,2021-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,113.324077,X,base year is 2015
+AUT,2022-11-01,2022-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,125.326914,X,base year is 2015
+AUT,2023-11-01,2023-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,132.031201,X,base year is 2015
+AUT,2024-11-01,2024-11-30,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,134.518275,X,base year is 2015
+AUT,2000-12-01,2000-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,75.589452,X,base year is 2015
+AUT,2001-12-01,2001-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,77.089547,X,base year is 2015
+AUT,2002-12-01,2002-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,78.507450,X,base year is 2015
+AUT,2003-12-01,2003-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,79.477603,X,base year is 2015
+AUT,2004-12-01,2004-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,81.791036,X,base year is 2015
+AUT,2005-12-01,2005-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,82.938508,X,base year is 2015
+AUT,2006-12-01,2006-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,84.176389,X,base year is 2015
+AUT,2007-12-01,2007-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,87.229846,X,base year is 2015
+AUT,2008-12-01,2008-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,88.385211,X,base year is 2015
+AUT,2009-12-01,2009-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,89.292993,X,base year is 2015
+AUT,2010-12-01,2010-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,91.356140,X,base year is 2015
+AUT,2011-12-01,2011-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,94.255820,X,base year is 2015
+AUT,2012-12-01,2012-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,96.876547,X,base year is 2015
+AUT,2013-12-01,2013-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,98.683958,X,base year is 2015
+AUT,2014-12-01,2014-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.678020,X,base year is 2015
+AUT,2015-12-01,2015-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.693439,X,base year is 2015
+AUT,2016-12-01,2016-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,102.093348,X,base year is 2015
+AUT,2017-12-01,2017-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,104.293208,X,base year is 2015
+AUT,2018-12-01,2018-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,106.293075,X,base year is 2015
+AUT,2019-12-01,2019-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,108.092960,X,base year is 2015
+AUT,2020-12-01,2020-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,109.323132,X,base year is 2015
+AUT,2021-12-01,2021-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,113.972879,X,base year is 2015
+AUT,2022-12-01,2022-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,125.543181,X,base year is 2015
+AUT,2023-12-01,2023-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,132.571869,X,base year is 2015
+AUT,2024-12-01,2024-12-31,11,'040,Austria,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,135.275211,X,base year is 2015
+AUT,2001-01-01,2001-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,2.145665,E,
+AUT,2002-01-01,2002-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,4.682933,E,
+AUT,2003-01-01,2003-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,-0.093197,E,
+AUT,2004-01-01,2004-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,2.238809,E,
+AUT,2005-01-01,2005-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,1.094885,E,
+AUT,2006-01-01,2006-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,1.907626,E,
+AUT,2007-01-01,2007-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,2.857140,E,
+AUT,2008-01-01,2008-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,7.567057,E,
+AUT,2009-01-01,2009-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,2.849506,E,
+AUT,2010-01-01,2010-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,-1.645018,E,
+AUT,2011-01-01,2011-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,2.728873,E,
+AUT,2012-01-01,2012-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,3.602718,E,
+AUT,2013-01-01,2013-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,3.853387,E,
+AUT,2014-01-01,2014-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,2.714934,E,
+AUT,2015-01-01,2015-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,0.616742,E,
+AUT,2016-01-01,2016-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,0.701403,E,
+AUT,2017-01-01,2017-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,1.791041,E,
+AUT,2018-01-01,2018-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,1.955040,E,
+AUT,2019-01-01,2019-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,1.150529,E,
+AUT,2020-01-01,2020-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,1.232223,E,
+AUT,2021-01-01,2021-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,-1.114488,E,
+AUT,2022-01-01,2022-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,4.918033,E,
+AUT,2023-01-01,2023-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,16.992188,E,
+AUT,2024-01-01,2024-01-31,11,'040,Austria,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,5.425710,E,
+AUT,2001-02-01,2001-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,1.735036,E,
+AUT,2002-02-01,2002-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,3.307388,E,
+AUT,2003-02-01,2003-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,0.282488,E,
+AUT,2004-02-01,2004-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,2.347421,E,
+AUT,2005-02-01,2005-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,2.774027,E,
+AUT,2006-02-01,2006-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,1.489576,E,
+AUT,2007-02-01,2007-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,1.859095,E,
+AUT,2008-02-01,2008-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,8.453410,E,
+AUT,2009-02-01,2009-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,2.214353,E,
+AUT,2010-02-01,2010-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,-2.253032,E,
+AUT,2011-02-01,2011-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,4.263345,E,
+AUT,2012-02-01,2012-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,3.381641,E,
+AUT,2013-02-01,2013-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,3.271027,E,
+AUT,2014-02-01,2014-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,2.714934,E,
+AUT,2015-02-01,2015-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,0.616742,E,
+AUT,2016-02-01,2016-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,1.102201,E,
+AUT,2017-02-01,2017-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,2.279483,E,
+AUT,2018-02-01,2018-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,1.162803,E,
+AUT,2019-02-01,2019-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,1.053637,E,
+AUT,2020-02-01,2020-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,1.847616,E,
+AUT,2021-02-01,2021-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,1.611279,E,
+AUT,2022-02-01,2022-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,4.261645,E,
+AUT,2023-02-01,2023-02-28,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,16.159696,E,
+AUT,2024-02-01,2024-02-29,11,'040,Austria,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,3.682488,E,
+AUT,2001-03-01,2001-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,2.843250,E,
+AUT,2002-03-01,2002-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,2.616269,E,
+AUT,2003-03-01,2003-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,1.322012,E,
+AUT,2004-03-01,2004-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,1.863918,E,
+AUT,2005-03-01,2005-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,3.000850,E,
+AUT,2006-03-01,2006-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,0.098823,E,
+AUT,2007-03-01,2007-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,3.060203,E,
+AUT,2008-03-01,2008-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,7.758631,E,
+AUT,2009-03-01,2009-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,1.511104,E,
+AUT,2010-03-01,2010-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,-0.350256,E,
+AUT,2011-03-01,2011-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,4.445522,E,
+AUT,2012-03-01,2012-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,2.868071,E,
+AUT,2013-03-01,2013-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,2.602227,E,
+AUT,2014-03-01,2014-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,2.445652,E,
+AUT,2015-03-01,2015-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,1.377289,E,
+AUT,2016-03-01,2016-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,0.698603,E,
+AUT,2017-03-01,2017-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,1.585727,E,
+AUT,2018-03-01,2018-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,1.756105,E,
+AUT,2019-03-01,2019-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,1.534035,E,
+AUT,2020-03-01,2020-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,1.871638,E,
+AUT,2021-03-01,2021-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,1.203611,E,
+AUT,2022-03-01,2022-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,5.847374,E,
+AUT,2023-03-01,2023-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,14.513109,E,
+AUT,2024-03-01,2024-03-31,11,'040,Austria,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,3.352412,E,
+AUT,2001-04-01,2001-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,3.645911,E,
+AUT,2002-04-01,2002-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,1.832223,E,
+AUT,2003-04-01,2003-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,1.325753,E,
+AUT,2004-04-01,2004-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,1.962617,E,
+AUT,2005-04-01,2005-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,2.475889,E,
+AUT,2006-04-01,2006-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,0.796033,E,
+AUT,2007-04-01,2007-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,4.047372,E,
+AUT,2008-04-01,2008-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,6.925994,E,
+AUT,2009-04-01,2009-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,0.887313,E,
+AUT,2010-04-01,2010-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,0.615659,E,
+AUT,2011-04-01,2011-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,4.295049,E,
+AUT,2012-04-01,2012-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,1.714277,E,
+AUT,2013-04-01,2013-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,3.932585,E,
+AUT,2014-04-01,2014-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,2.072083,E,
+AUT,2015-04-01,2015-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,1.299331,E,
+AUT,2016-04-01,2016-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,0.897306,E,
+AUT,2017-04-01,2017-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,1.086953,E,
+AUT,2018-04-01,2018-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,2.052796,E,
+AUT,2019-04-01,2019-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,1.245206,E,
+AUT,2020-04-01,2020-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,2.576251,E,
+AUT,2021-04-01,2021-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,0.199601,E,
+AUT,2022-04-01,2022-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,8.366534,E,
+AUT,2023-04-01,2023-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,13.235294,E,
+AUT,2024-04-01,2024-04-30,11,'040,Austria,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,2.597403,E,
+AUT,2001-05-01,2001-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,4.215265,E,
+AUT,2002-05-01,2002-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,0.765541,E,
+AUT,2003-05-01,2003-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,1.614448,E,
+AUT,2004-05-01,2004-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,2.336452,E,
+AUT,2005-05-01,2005-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,1.999957,E,
+AUT,2006-05-01,2006-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,1.394431,E,
+AUT,2007-05-01,2007-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,3.929253,E,
+AUT,2008-05-01,2008-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,6.899822,E,
+AUT,2009-05-01,2009-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,0.088413,E,
+AUT,2010-05-01,2010-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,0.000000,E,
+AUT,2011-05-01,2011-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,4.697982,E,
+AUT,2012-05-01,2012-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,2.396926,E,
+AUT,2013-05-01,2013-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,4.681648,E,
+AUT,2014-05-01,2014-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,1.967803,E,
+AUT,2015-05-01,2015-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,1.078828,E,
+AUT,2016-05-01,2016-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,0.099309,E,
+AUT,2017-05-01,2017-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,2.083333,E,
+AUT,2018-05-01,2018-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,1.943630,E,
+AUT,2019-05-01,2019-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,0.953292,E,
+AUT,2020-05-01,2020-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,1.258569,E,
+AUT,2021-05-01,2021-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,1.816347,E,
+AUT,2022-05-01,2022-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,9.018831,E,
+AUT,2023-05-01,2023-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,12.272727,E,
+AUT,2024-05-01,2024-05-31,11,'040,Austria,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,2.834008,E,
+AUT,2001-06-01,2001-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,3.930902,E,
+AUT,2002-06-01,2002-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,-0.096062,E,
+AUT,2003-06-01,2003-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,2.307695,E,
+AUT,2004-06-01,2004-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,3.007528,E,
+AUT,2005-06-01,2005-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,1.906890,E,
+AUT,2006-06-01,2006-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,0.996018,E,
+AUT,2007-06-01,2007-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,3.451669,E,
+AUT,2008-06-01,2008-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,6.768359,E,
+AUT,2009-06-01,2009-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,0.357136,E,
+AUT,2010-06-01,2010-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,0.622780,E,
+AUT,2011-06-01,2011-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,4.388667,E,
+AUT,2012-06-01,2012-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,2.983637,E,
+AUT,2013-06-01,2013-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,4.392520,E,
+AUT,2014-06-01,2014-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,1.700985,E,
+AUT,2015-06-01,2015-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,1.031823,E,
+AUT,2016-06-01,2016-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,0.099695,E,
+AUT,2017-06-01,2017-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,2.290846,E,
+AUT,2018-06-01,2018-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,2.044780,E,
+AUT,2019-06-01,2019-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,0.858787,E,
+AUT,2020-06-01,2020-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,2.883365,E,
+AUT,2021-06-01,2021-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,0.000000,E,
+AUT,2022-06-01,2022-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,11.343284,E,
+AUT,2023-06-01,2023-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,11.081323,E,
+AUT,2024-06-01,2024-06-30,11,'040,Austria,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,1.689461,E,
+AUT,2001-07-01,2001-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,2.829652,E,
+AUT,2002-07-01,2002-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,0.193597,E,
+AUT,2003-07-01,2003-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,2.318844,E,
+AUT,2004-07-01,2004-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,2.832869,E,
+AUT,2005-07-01,2005-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,1.438261,E,
+AUT,2006-07-01,2006-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,2.014102,E,
+AUT,2007-07-01,2007-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,3.553788,E,
+AUT,2008-07-01,2008-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,7.054343,E,
+AUT,2009-07-01,2009-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,-0.356194,E,
+AUT,2010-07-01,2010-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,0.804296,E,
+AUT,2011-07-01,2011-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,4.767029,E,
+AUT,2012-07-01,2012-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,3.076919,E,
+AUT,2013-07-01,2013-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,3.824642,E,
+AUT,2014-07-01,2014-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,1.886787,E,
+AUT,2015-07-01,2015-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,0.907279,E,
+AUT,2016-07-01,2016-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,0.500001,E,
+AUT,2017-07-01,2017-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,2.189059,E,
+AUT,2018-07-01,2018-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,2.044780,E,
+AUT,2019-07-01,2019-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,1.145040,E,
+AUT,2020-07-01,2020-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,2.592193,E,
+AUT,2021-07-01,2021-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,0.099502,E,
+AUT,2022-07-01,2022-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,12.226640,E,
+AUT,2023-07-01,2023-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,10.540301,E,
+AUT,2024-07-01,2024-07-31,11,'040,Austria,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,1.121795,E,
+AUT,2001-08-01,2001-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,3.532470,E,
+AUT,2002-08-01,2002-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,0.971840,E,
+AUT,2003-08-01,2003-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,2.021160,E,
+AUT,2004-08-01,2004-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,2.169814,E,
+AUT,2005-08-01,2005-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,1.281211,E,
+AUT,2006-08-01,2006-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,3.144017,E,
+AUT,2007-08-01,2007-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,3.834807,E,
+AUT,2008-08-01,2008-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,6.439390,E,
+AUT,2009-08-01,2009-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,-0.622780,E,
+AUT,2010-08-01,2010-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,1.342885,E,
+AUT,2011-08-01,2011-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,4.095687,E,
+AUT,2012-08-01,2012-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,3.664418,E,
+AUT,2013-08-01,2013-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,3.255813,E,
+AUT,2014-08-01,2014-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,1.891898,E,
+AUT,2015-08-01,2015-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,0.770244,E,
+AUT,2016-08-01,2016-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,0.903613,E,
+AUT,2017-08-01,2017-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,2.487559,E,
+AUT,2018-08-01,2018-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,1.262142,E,
+AUT,2019-08-01,2019-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,1.534035,E,
+AUT,2020-08-01,2020-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,2.382529,E,
+AUT,2021-08-01,2021-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,0.598802,E,
+AUT,2022-08-01,2022-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,13.095238,E,
+AUT,2023-08-01,2023-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,9.824561,E,
+AUT,2024-08-01,2024-08-31,11,'040,Austria,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,1.357827,E,
+AUT,2001-09-01,2001-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,4.748612,E,
+AUT,2002-09-01,2002-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,0.289004,E,
+AUT,2003-09-01,2003-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,2.209416,E,
+AUT,2004-09-01,2004-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,1.221799,E,
+AUT,2005-09-01,2005-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,2.052043,E,
+AUT,2006-09-01,2006-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,3.238861,E,
+AUT,2007-09-01,2007-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,3.431379,E,
+AUT,2008-09-01,2008-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,6.445494,E,
+AUT,2009-09-01,2009-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,-0.623322,E,
+AUT,2010-09-01,2010-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,1.433677,E,
+AUT,2011-09-01,2011-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,4.497225,E,
+AUT,2012-09-01,2012-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,3.362150,E,
+AUT,2013-09-01,2013-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,2.973974,E,
+AUT,2014-09-01,2014-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,2.166062,E,
+AUT,2015-09-01,2015-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,0.782306,E,
+AUT,2016-09-01,2016-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,0.501506,E,
+AUT,2017-09-01,2017-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,3.093815,E,
+AUT,2018-09-01,2018-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,1.258466,E,
+AUT,2019-09-01,2019-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,0.764823,E,
+AUT,2020-09-01,2020-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,2.970879,E,
+AUT,2021-09-01,2021-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,0.598205,E,
+AUT,2022-09-01,2022-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,13.875124,E,
+AUT,2023-09-01,2023-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,8.355091,E,
+AUT,2024-09-01,2024-09-30,11,'040,Austria,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,2.168675,E,
+AUT,2001-10-01,2001-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,5.057892,E,
+AUT,2002-10-01,2002-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,0.767024,E,
+AUT,2003-10-01,2003-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,1.998098,E,
+AUT,2004-10-01,2004-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,0.932828,E,
+AUT,2005-10-01,2005-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,1.888890,E,
+AUT,2006-10-01,2006-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,2.522695,E,
+AUT,2007-10-01,2007-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,6.200797,E,
+AUT,2008-10-01,2008-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,4.819276,E,
+AUT,2009-10-01,2009-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,-0.972588,E,
+AUT,2010-10-01,2010-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,1.785718,E,
+AUT,2011-10-01,2011-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,4.361956,E,
+AUT,2012-10-01,2012-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,3.247375,E,
+AUT,2013-10-01,2013-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,3.422749,E,
+AUT,2014-10-01,2014-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,1.520579,E,
+AUT,2015-10-01,2015-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,0.515919,E,
+AUT,2016-10-01,2016-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,1.103318,E,
+AUT,2017-10-01,2017-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,3.174599,E,
+AUT,2018-10-01,2018-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,1.153847,E,
+AUT,2019-10-01,2019-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,0.665399,E,
+AUT,2020-10-01,2020-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,2.689064,E,
+AUT,2021-10-01,2021-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,1.094527,E,
+AUT,2022-10-01,2022-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,14.370079,E,
+AUT,2023-10-01,2023-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,7.228916,E,
+AUT,2024-10-01,2024-10-31,11,'040,Austria,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,2.728732,E,
+AUT,2001-11-01,2001-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,4.445675,E,
+AUT,2002-11-01,2002-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,0.961546,E,
+AUT,2003-11-01,2003-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,3.142852,E,
+AUT,2004-11-01,2004-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,0.277010,E,
+AUT,2005-11-01,2005-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,2.128214,E,
+AUT,2006-11-01,2006-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,2.808428,E,
+AUT,2007-11-01,2007-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,6.341462,E,
+AUT,2008-11-01,2008-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,4.311925,E,
+AUT,2009-11-01,2009-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,-0.879509,E,
+AUT,2010-11-01,2010-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,1.153517,E,
+AUT,2011-11-01,2011-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,4.760664,E,
+AUT,2012-11-01,2012-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,3.615605,E,
+AUT,2013-11-01,2013-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,2.846647,E,
+AUT,2014-11-01,2014-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,1.517863,E,
+AUT,2015-11-01,2015-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,0.439750,E,
+AUT,2016-11-01,2016-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,1.202406,E,
+AUT,2017-11-01,2017-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,3.168313,E,
+AUT,2018-11-01,2018-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,0.863722,E,
+AUT,2019-11-01,2019-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,0.475739,E,
+AUT,2020-11-01,2020-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,2.775860,E,
+AUT,2021-11-01,2021-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,1.595214,E,
+AUT,2022-11-01,2022-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,15.210991,E,
+AUT,2023-11-01,2023-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,7.325383,E,
+AUT,2024-11-01,2024-11-30,11,'040,Austria,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,2.063492,E,
+AUT,2001-12-01,2001-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,4.622488,E,
+AUT,2002-12-01,2002-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,0.478015,E,
+AUT,2003-12-01,2003-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,2.854417,E,
+AUT,2004-12-01,2004-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,1.850139,E,
+AUT,2005-12-01,2005-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,2.959711,E,
+AUT,2006-12-01,2006-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,1.766438,E,
+AUT,2007-12-01,2007-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,7.618135,E,
+AUT,2008-12-01,2008-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,2.508950,E,
+AUT,2009-12-01,2009-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,-1.923083,E,
+AUT,2010-12-01,2010-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,2.406424,E,
+AUT,2011-12-01,2011-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,3.940090,E,
+AUT,2012-12-01,2012-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,4.757374,E,
+AUT,2013-12-01,2013-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,2.543139,E,
+AUT,2014-12-01,2014-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,0.974315,E,
+AUT,2015-12-01,2015-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,0.476575,E,
+AUT,2016-12-01,2016-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,0.998993,E,
+AUT,2017-12-01,2017-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,3.165190,E,
+AUT,2018-12-01,2018-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,0.767012,E,
+AUT,2019-12-01,2019-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,0.856326,E,
+AUT,2020-12-01,2020-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,2.898439,E,
+AUT,2021-12-01,2021-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,1.686508,E,
+AUT,2022-12-01,2022-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,16.097561,E,
+AUT,2023-12-01,2023-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,5.966387,E,
+AUT,2024-12-01,2024-12-31,11,'040,Austria,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,1.586043,E,
