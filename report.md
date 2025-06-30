@@ -1,7 +1,3 @@
-Solid call, brodie. Sometimes it's better to wrap up what you've learned, document the process, and move on stronger. Here's a **simple, clean report** to close the project — no fluff, just what matters:
-
----
-
 ## 📝 Final Report: Producer vs Consumer Price Analysis (Austria)
 
 ### 📌 Objective:
@@ -84,7 +80,6 @@ This project gave insight into:
 
 ---
 
-### ✅ Status: **Complete** (Not for portfolio)
 
 Next time: Better dataset alignment, more specific item-matching, deeper economic context 💼
 
