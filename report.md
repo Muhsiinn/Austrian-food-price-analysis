@@ -79,10 +79,3 @@ This project gave insight into:
 * `../visuals/ppi_vs_cpi.png` (Trend comparison)
 
 ---
-
-
-Next time: Better dataset alignment, more specific item-matching, deeper economic context 💼
-
----
-
-Let me know if you want this in Markdown or `.txt` format, or want to add a personal reflection line at the end.
