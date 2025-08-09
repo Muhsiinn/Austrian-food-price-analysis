@@ -1,6 +1,3 @@
-Solid call, brodie. Sometimes it's better to wrap up what you've learned, document the process, and move on stronger. Here's a **simple, clean report** to close the project — no fluff, just what matters:
-
----
 
 ## 📝 Final Report: Producer vs Consumer Price Analysis (Austria)
 
@@ -81,13 +78,3 @@ This project gave insight into:
 
 * `../visuals/price_gap_trend.png` (Gap chart)
 * `../visuals/ppi_vs_cpi.png` (Trend comparison)
-
----
-
-### ✅ Status: **Complete** (Not for portfolio)
-
-Next time: Better dataset alignment, more specific item-matching, deeper economic context 💼
-
----
-
-Let me know if you want this in Markdown or `.txt` format, or want to add a personal reflection line at the end.
